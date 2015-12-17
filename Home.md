@@ -16,7 +16,7 @@ This Lab will not use Travis for checks.
 In order to pass this lab you should:
 - Fork this repository, and configure in a similar way as you did for lab 1
 - Do the above procedures.
-- _Master branch_: Modify README.md so it contains the screenshots and the report. 
+- _Master branch_: Modify [README.md](/UNIZAR-30246-WebEngineering/Laboratory-6-microservices/tree/master/README.md) so it contains the screenshots and the report. 
 - _Control branch_: Update your corresponding row in [README.md](/UNIZAR-30246-WebEngineering/Laboratory-6-microservices/tree/control/README.md) with the link to your repo
 - _Control branch_: Request a pull request only of your control branch
 
