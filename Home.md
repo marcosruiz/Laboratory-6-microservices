@@ -20,7 +20,7 @@ In order to pass this lab you should:
 - _Control branch_: Update your corresponding row in [README.md](/UNIZAR-30246-WebEngineering/Laboratory-6-microservices/tree/control/README.md) with the link to your repo
 - _Control branch_: Request a pull request only of your control branch
 
-Ok, the above is easy to medium. Now, how to get the cumulative bonus of 5% in your personal score? It is obvious, improve the existing application by using the goodies provided by Spring Cloud. Explore and propose ideas. 
+Ok, the above is easy to medium. Now, how to get the cumulative bonus of 5% in your personal score? It is obvious, improve the existing application by using the goodies provided by [Spring Cloud](http://projects.spring.io/spring-cloud/). Explore and propose ideas. 
 - First, make a proposal by adding a proposal in your corresponding row in [README.md](/UNIZAR-30246-WebEngineering/Laboratory-6-microservices/tree/control/README.md). 
 - Second, if nobody has requested previously the same improvement and I believe that it is worthwhile, I reserve the topic for you by accepting your pull request. Otherwise, I will reject it and will provide feedback.
 - Third, start to work on it; remember that I will check if there are tests that test your improvement and your code pass Travis checks.
